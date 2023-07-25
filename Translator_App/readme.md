@@ -1,6 +1,6 @@
 # Translator App
 
-This is a simple Translator App built with JavaScript that allows users to translate text from one language to another using the Google Translate API.
+This is a simple Translator App built with JavaScript that allows users to translate text from one language to another using the MyMemory Translation API.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ This is a simple Translator App built with JavaScript that allows users to trans
 - HTML
 - CSS
 - JavaScript
-- Google Translate API
+- MyMemory Translation API
 
 ## Getting Started
 
@@ -30,12 +30,12 @@ To run the Translator App locally, follow these steps:
 
 1. Clone the repository:
 
-[git clone https://github.com/your-username/translator-app.git](https://github.com/stuti-singh-in/JavaScript-beginners/edit/main/Translator_App/readme.md)https://github.com/stuti-singh-in/JavaScript-beginners/edit/main/Translator_App/readme.md
+git clone https://github.com/stuti-singh-in/Translator-App.git
 
 
 2. Navigate to the project directory:
 
-cd Translator-App
+cd translator-app
 
 
 3. Open the `index.html` file in your preferred web browser.
@@ -64,4 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to use this project and modify it according to your needs.
 
 ---
+
 
