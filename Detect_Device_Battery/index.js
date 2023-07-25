@@ -1,5 +1,6 @@
 initBattery();
 
+
 function initBattery() {
     const batteryLiquid = document.querySelector(".Bliquid"); 
         // Select the element with the class "Bliquid" and store it in the variable "batteryLiquid."
