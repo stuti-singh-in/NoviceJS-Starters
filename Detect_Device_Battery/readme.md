@@ -1,1 +1,1 @@
-I'll eventually add :P 
+The battery level is visually represented using nested div elements with appropriate class names for styling and JavaScript will likely be used to update the battery level dynamically. The external CSS file (style.css) and JavaScript file (index.js) are linked to enhance the page's appearance and interactivity, respectively.
