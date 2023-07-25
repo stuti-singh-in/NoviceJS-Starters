@@ -15,3 +15,6 @@ Try it out and have fun playing the classic XO game!
 
 ![firstpreview](https://github.com/stuti-singh-in/JavaScript-beginners/assets/121602275/ff968fc9-4f21-486f-95fc-94501b891c93)
 
+![secondpreview](https://github.com/stuti-singh-in/JavaScript-beginners/assets/121602275/3a4c9476-c270-438a-bf19-24eb0e0dbed4)
+
+
