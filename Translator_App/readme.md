@@ -1,6 +1,8 @@
 #JavaScript Translator App
 
+
 ##Overview
+
 The JavaScript Translator App is a simple web application that allows users to translate text from one language to another. It leverages the power of the XYZ Translation API to provide accurate and efficient translations.
 
 ##Features
