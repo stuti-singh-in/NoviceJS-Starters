@@ -1,6 +1,6 @@
 # Detect_Device_Battery
 
-![Detect_Device_Battery](https://your-image-url.com)
+![image](https://github.com/stuti-singh-in/NoviceJS-Starters/assets/121602275/7d182b64-9978-412e-8969-62c16f13fe88)
 
 Welcome to Detect_Device_Battery! 🕵️‍♂️
 
@@ -50,5 +50,3 @@ This project is licensed under the MIT License. Feel free to explore, modify, an
 
 _Discover the power of the Battery API and unveil the mysteries of your device's battery level. Let's spark curiosity and dive into the world of web development together! 🚀💻_
 
-
-![image](https://github.com/stuti-singh-in/JavaScript-beginners/assets/121602275/1e33da3d-5450-41b4-8390-9c1b1ab3c89f)
