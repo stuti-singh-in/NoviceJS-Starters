@@ -19,7 +19,7 @@ The Password Generator is a simple yet powerful tool that helps you create stron
 
 ## How to Use
 
-1. Access the Password Generator website at [https://your-password-generator-url.com](https://your-password-generator-url.com).
+1. Access the Password Generator website at ([https://your-password-generator-url.com](https://github.com/stuti-singh-in/NoviceJS-Starters/blob/main/PasswordGenerator/index.html)).
 
 2. Set the desired password length using the slider.
 
